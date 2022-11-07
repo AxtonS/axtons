@@ -2,7 +2,7 @@
 
 **`Learner | Full Stack`**  
 
-I'm currently learning full-stack web development from https://www.theodinproject.com/ using the ruby on rails path. I intend to add node.js to my skillset afterwards. Everything I've worked on since starting to learn is public in my repositories so that my journey is documented to an extent. I also write down my process in each projects README.  
+ Everything I've worked on since starting to learn is public in my repositories so that my journey is documented to an extent. I also write down my process in each projects README.  
   
 ---  
   
