@@ -2,7 +2,7 @@
 
 **`Learner | Full Stack`**  
 
- Everything I've worked on since starting to learn is public in my repositories so that my journey is documented to an extent. I also write down my process in each projects README.  
+ Currently working on learning rails development.  
   
 ---  
   
