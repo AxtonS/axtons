@@ -1,6 +1,6 @@
 # Axton Smith  
 
-**`Learner | Full Stack`**  
+**`Learner | Web Dev`**  
 
  Currently working on learning rails development.  
   
