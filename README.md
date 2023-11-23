@@ -2,7 +2,7 @@
 
 **`Learner | Coder | Saint`**  
 
- Currently attending seneca college toronto for computer programming & analysis, but continuing my fullstack web developer journey toward learning ruby on rails next. 
+ Currently attending seneca college toronto for computer programming & analysis, but continuing my fullstack web developer journey, learning ruby on rails right now. 
   
 ---  
   
