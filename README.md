@@ -1,6 +1,6 @@
 # Axton Smith  
 
-**`Learner | Coder | Saint`**  
+**`Learner of things`**  
 
  Currently attending seneca polytechnic for computer programming & analysis, but continuing my fullstack web developer journey, learning ruby on rails right now. 
   
