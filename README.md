@@ -1,8 +1,8 @@
 # Axton Smith  
 
-**`Learner of things`**  
+**`I like typing stuff`**  
 
- Currently attending seneca polytechnic for computer programming & analysis, but continuing my fullstack web developer journey, learning ruby on rails right now. 
+ Learning ruby on rails and react right now.
   
 ---  
   
