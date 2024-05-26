@@ -2,7 +2,7 @@
 
 **`I like typing stuff`**  
 
- Learning ruby on rails and react right now.
+ Learning shit right now.
   
 ---  
   
