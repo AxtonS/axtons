@@ -24,4 +24,4 @@
 ---
                                                                                                                                              
 
-![Axton's GitHub stats](https://github-readme-stats.vercel.app/api?username=axtons&theme=radical&show_icons=true)        ![Axton's TypeRacer stats](https://data.typeracer.com/misc/badge?user=fotg_reckless)
+![Axton's GitHub stats](https://github-readme-stats.vercel.app/api?username=axtons&theme=radical&show_icons=true)
